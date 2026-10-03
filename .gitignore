@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.env
+
+# Data and Artifacts (Too large for Git)
+archive/
+cleaned/*
+!cleaned/*.png
+*.zip
+*.csv
+
+# Academic & Personal Files
+*.docx
+*.pdf
+*.tex
+Plan*
+Rapport*
